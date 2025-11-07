@@ -88,17 +88,6 @@ If push requires authentication, use your GitHub credentials or a PAT (recommend
 - For faster experiments, run on a machine with a CUDA-capable GPU and install the corresponding PyTorch CUDA build.
 - Consider refactoring into a package layout (e.g., `src/` and a `train.py`, `sample.py`) if you extend the project.
 
-## License
-
-Pick a license for your repo (MIT, Apache-2.0, etc.). This README does not impose a license; add a `LICENSE` file if you want explicit terms.
-
-## Contact / Acknowledgements
-
-- Original notebook exported from Colab.
-- If you want, add your contact details or link to the GitHub profile for contributors to reach out.
-
----
-
 If you'd like, I can also:
 - Create a minimal `requirements.txt` for the repo.
 - Add a small `.gitignore` tuned for Python projects and notebooks.
